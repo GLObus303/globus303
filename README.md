@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I'm Lukas Cizek — a senior front-end engineer focused on React, TypeScript, and building fast, accessible, and scalable web apps.
+I'm Lukas Cizek — a senior full-stack engineer with a strong frontend focus, specializing in React, TypeScript, and building fast, accessible, and scalable web apps. I also bring solid backend experience with Node.js, Java, and Go.
 
-I’ve led teams, mentored developers, and shipped products used by millions.  
+With 10 years in the industry, I’ve led teams, mentored developers, and shipped products used by millions — from rapid prototypes to complex enterprise systems.
 Open to remote opportunities (contract or full-time).
 
 📌 Selected projects (open PRs available for context):
