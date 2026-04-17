@@ -5,12 +5,11 @@ I'm Lukas Cizek — a senior full-stack engineer with a strong frontend focus, s
 With 10 years in the industry, I’ve led teams, mentored developers, and shipped products used by millions — from rapid prototypes to complex enterprise systems.
 Open to remote opportunities (contract or full-time).
 
-📌 Selected projects (open PRs available for context):
+📌 Side project (open PRs available for context):
 - [sportujspolu](https://github.com/GLObus303/sportujspolu) — built with a collaborator; I mainly contribute through code reviews and technical guidance.
 - [sportujspolu-be](https://github.com/GLObus303/sportujspolu-be) — Go backend I used to explore and learn Go.
-- [monex](https://github.com/GLObus303/monex) — React frontend with Vite, TypeScript, and Playwright tests.
 
-Mentoring:
-- [buk-klab](https://github.com/eliskavo/buk-klab) — mentoring project created as part of the [ReactGirls](https://reactgirls.com/) program.
+
+
 
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/lukascizek/)
